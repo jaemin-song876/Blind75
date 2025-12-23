@@ -9,7 +9,7 @@ class Solution:
         for right, char in enumerate(s):
             if char in char_map and char_map[char] >= left: #char이 char_map에 없고, 다음칸으로 
                 left = char_map[char] +1
-
+            #right은 중복이 있던 없던 전진함
             char_map[char] = right
 
             max_len = max(max_len, right - left +1)      
