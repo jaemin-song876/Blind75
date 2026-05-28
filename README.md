@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaemin-song876/Blind75/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jaemin-song876/Blind75/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/Blind75/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/jaemin-song876/Blind75/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaemin-song876/Blind75/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
 ## Greedy
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
