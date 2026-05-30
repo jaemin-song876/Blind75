@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jaemin-song876/Blind75/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/Blind75/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jaemin-song876/Blind75/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/jaemin-song876/Blind75/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaemin-song876/Blind75/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jaemin-song876/Blind75/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jaemin-song876/Blind75/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/jaemin-song876/Blind75/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/jaemin-song876/Blind75/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
