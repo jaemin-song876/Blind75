@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jaemin-song876/Blind75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jaemin-song876/Blind75/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jaemin-song876/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaemin-song876/Blind75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jaemin-song876/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaemin-song876/Blind75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
 ## Bit Manipulation
