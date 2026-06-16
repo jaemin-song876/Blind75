@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/jaemin-song876/Blind75/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jaemin-song876/Blind75/tree/master/0023-merge-k-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jaemin-song876/Blind75/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
