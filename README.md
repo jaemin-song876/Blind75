@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jaemin-song876/Blind75/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/jaemin-song876/Blind75/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/jaemin-song876/Blind75/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
 |  |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jaemin-song876/Blind75/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaemin-song876/Blind75/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/jaemin-song876/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaemin-song876/Blind75/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/jaemin-song876/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jaemin-song876/Blind75/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/jaemin-song876/Blind75/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/jaemin-song876/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
