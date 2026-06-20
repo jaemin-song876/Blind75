@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaemin-song876/Blind75/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/jaemin-song876/Blind75/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
