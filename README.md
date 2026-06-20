@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaemin-song876/Blind75/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/jaemin-song876/Blind75/tree/master/0435-non-overlapping-intervals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jaemin-song876/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/jaemin-song876/Blind75/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/jaemin-song876/Blind75/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/jaemin-song876/Blind75/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0152-maximum-product-subarray) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jaemin-song876/Blind75/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
