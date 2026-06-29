@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jaemin-song876/Blind75/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaemin-song876/Blind75/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/jaemin-song876/Blind75/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/jaemin-song876/Blind75/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaemin-song876/Blind75/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/jaemin-song876/Blind75/tree/master/0435-non-overlapping-intervals) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jaemin-song876/Blind75/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/jaemin-song876/Blind75/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/jaemin-song876/Blind75/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/jaemin-song876/Blind75/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/jaemin-song876/Blind75/tree/master/1934-confirmation-rate) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jaemin-song876/Blind75/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
